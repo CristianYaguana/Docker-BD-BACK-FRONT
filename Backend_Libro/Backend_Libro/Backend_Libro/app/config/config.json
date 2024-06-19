@@ -1,0 +1,28 @@
+{
+    "development":{
+        "username": "root",
+        "password": "desarrollo",
+        "database": "libro",
+        "host": "db",
+        "dialect": "mysql",
+        "operatorAliases": false
+    },
+
+    "staging":{
+        "username": "colocarnombre",
+        "password": "colocarcontraseña",
+        "database": "nombrebd",
+        "host": "127.0.0.1---inventarse todo",
+        "dialect": "mysql",
+        "operatorAliases": false
+    },
+
+    "production":{
+        "username": "colocarnombre --- inventarse todo",
+        "password": "colocarcontraseña",
+        "database": "nombrebd",
+        "host": "127.0.0.1---inventarse todo",
+        "dialect": "mysql",
+        "operatorAliases": false
+    }
+}
