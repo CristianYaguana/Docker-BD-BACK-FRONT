@@ -8,6 +8,6 @@ COPY package-lock.json /app/
 RUN npm install
 COPY . /app/
 
-EXPOSE 3001
+EXPOSE 3015
 
 CMD ["npm","run","dev"]

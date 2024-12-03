@@ -15,7 +15,7 @@ services:
 
   backend: 
     build: ./Backend_Libro/Backend_Libro/Backend_Libro
-    ports:
+    ports: 
       - "3007:3007"
     depends_on:
       db:
